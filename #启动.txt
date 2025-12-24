@@ -1,0 +1,16 @@
+#前端启动
+D:
+cd \vscode\虚拟实验室\front
+npm run dev
+#后端
+D:
+cd /vscode/虚拟实验室/back
+mvn spring-boot:run
+后端get请求：
+http://localhost:8081/contacts/submit?=...
+get查询
+http://localhost:8081/contacts/list
+毕设网站
+20220612152
+3276268715@qq.com
+
